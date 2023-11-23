@@ -21,10 +21,10 @@ widgets:
 - tagcloud
 
 # Miscellaneous
-google_analytics:xixi
-duoshuo_shortname: xixi
-rss: xixi
-google_site_verification: xixi
-baidu_site_verification: 
-favicon: xixi
-music: xixi
+google_analytics:
+duoshuo_shortname:
+rss:
+google_site_verification:
+baidu_site_verification:
+favicon:
+music:
